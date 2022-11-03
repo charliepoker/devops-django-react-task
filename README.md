@@ -25,4 +25,4 @@ npm run build
 ```
 
 It should look like this if successful
-<img width="1440" alt="Screen Shot 2022-11-02 at 19 30 22" src="https://drive.google.com/file/d/1Q4fmKw2MuumlpRESAlLttpr5u1EY4UUI/view?usp=sharing">
+![ScreenShot](/Screenshot%202022-11-03%20at%2010.53.19%20AM.png)
