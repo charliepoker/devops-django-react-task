@@ -25,4 +25,6 @@ npm run build
 ```
 
 It should look like this if successful
-## [ScreenShot](/Screenshot%202022-11-03%20at%2010.53.19%20AM.png)
+### Screenshot
+
+![](/Screenshot%202022-11-03%20at%2010.53.19%20AM.png)
